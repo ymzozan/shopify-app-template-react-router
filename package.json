@@ -69,6 +69,9 @@
   ],
   "overrides": {
     "p-map": "^4.0.0",
-    "proxy-addr": "^2.0.8"
+    "proxy-addr": "^2.0.8",
+    "@prisma/config": {
+      "deepmerge-ts": "8.0.2"
+    }
   }
 }
